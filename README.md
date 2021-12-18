@@ -1,0 +1,14 @@
+# Sales-of-trice
+The company named trice was having issue with the customer attrition and the amount of sales not growing, Hence we made this analysis
+The aim of the research is to discuss forms of measurement and analytics which serve to achieve an expanding footprint for online marketplace “Trice”. Companies are increasingly using online communities to create value for the firm and their customers. To date, evidence regarding the effectiveness of online communities is widely available. In this paper we carry out a detailed study with live data from the business. The study is underpinned by a Sample survey of varied individuals, Sample size- 199. Further there is a detailed study carried out for Market basket analysis, RFM, LTV. The result is an outcome of amalgamated concurrence of survey and Statistical analysis. The results show there is strong traction for the brand and awareness in the market it is operating. The study points to few important outcomes, Namely: There is a strong loyal customer base, which brings in business and profits. In recent years , especially after the event of COVID 19, the traction of the business has slowed down and the latest customer acquisition by expanded marketing is not revenue accretive. The survey provides insight on the latest preferences of the customers and their areas of interest, which should be further taken up by the “Trice”marketing team. The study proposes to the company in starting a “loyalty program” which will lead to customer retention thereby assisting in getting more cross-sell and upsell opportunities.
+Key words: Association rule mining, Apriori Algorithm, Market Basket Analysis, Big Data, Quantitative survey, RFM Analysis, Customer LTV, Neighbourhood app
+ 
+“Trice” is an online neighbourhood marketplace which is based on the simple principle of creating a connected community. Trice helps build thriving and active residential communities by promoting local commerce in helping like- minded people. The app creates a positive social impact empowering women, creating local employment thereby stimulating the local economy.
+Trice operates in a constantly changing environment, which uses sophisticated tools and new approaches to understand customer journeys.
+“Trice” currently has strong patronage with the local community they work in and has several “Marquee investors”. “Trice” wishes to expand its footprint and hence this research study is commissioned.
+Further details about the business can be found in
+https://www.tricecommunity.com/tc#/home
+Business Problem:
+The app “Trice” has strong patronage, still the project team would like more traction for the app to expand the business further to bring in more customers and profit.
+Business Gap:
+To identify business case studies and research papers in relation to online marketplace connecting neighbourhoods for mutual benefit and the existing analysis and literature.
